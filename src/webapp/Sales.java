@@ -8,5 +8,7 @@ public class Sales {
     // 25% off
     // 35% off
 
+    // more sales items
+
 
 }
